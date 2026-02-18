@@ -1,0 +1,10 @@
+<resources>
+    <string name="find_beer">Find Beer</string>
+
+    <string-array name="beer_types">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>

@@ -35,7 +35,7 @@ public class FindBeerActivity extends AppCompatActivity {
                 String resultado = "";
 
                 if(position == 0){
-                    resultado = "Caribe:\n- Terpel Barranquilla\n- Primax Cartagena\n- Texaco Santa Marta";
+                    resultado = "Caribe:\n- Biomax Barranquilla\n- Primax Cartagena\n- Texaco Santa Marta";
                 }
                 else if(position == 1){
                     resultado = "Andina:\n- Terpel Bogotá\n- Primax Medellín\n- Biomax Tunja";

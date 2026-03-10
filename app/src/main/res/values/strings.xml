@@ -1,4 +1,5 @@
 <resources>
+
     <string name="find_beer">Find Beer</string>
 
     <string-array name="beer_types">
@@ -7,4 +8,13 @@
         <item>Brown</item>
         <item>Dark</item>
     </string-array>
+
+    <string-array name="zonas">
+        <item>Caribe</item>
+        <item>Andina</item>
+        <item>Pacifica</item>
+        <item>Orinoquia</item>
+        <item>Amazonia</item>
+    </string-array>
+
 </resources>
